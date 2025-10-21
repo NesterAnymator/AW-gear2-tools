@@ -1,6 +1,6 @@
 > I'm new here, so please don't be mean to me.)
 
-# Gear 2 Manager [ROOT]
+# Android Wear Manager [ROOT]
 This application tries to expand the functionality of Android Wear down to standard Android *(in this case, phone)* using system resources such as AppOps, PM, Settings, third-party tweaks, etc.
 
 Initially, it was intended and tested to be used on Samsung Gear 2 Neo watches with custom firmware Android Wear 1.4.0.2633150 (based on Android 6.0.1, build number MEC23U), so some points are explained specifically for them, in the future I will move them.
